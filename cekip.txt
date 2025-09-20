@@ -1,0 +1,23 @@
+# ====== DOMAIN SPEEDTEST ======
+speedtest.net
+fast.com
+ooklaserver.net
+speedtestcustom.com
+openspeedtest.com
+speedcheck.org
+measurementlab.net
+measurement-lab.org
+wifiman.com
+
+# ====== DOMAIN CEK IP ======
+myip.com
+ipsaya.com
+whatismyip.com
+ipinfo.io
+ifconfig.co
+whoer.net
+ipleak.net
+whatsmyip.org
+check-host.net
+ipchicken.com
+whatismyipaddress.com
